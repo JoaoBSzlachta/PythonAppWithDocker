@@ -1,5 +1,4 @@
-Flask
-matplotlib
-numpy
-scipy
-
+Flask                      
+matplotlib                           
+numpy                                                                                                                                                                
+scipy    
