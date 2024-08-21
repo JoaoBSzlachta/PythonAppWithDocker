@@ -13,13 +13,6 @@ This repository contains a Python Flask application that:
 
 The application is containerized using Docker and can be deployed on an AWS Virtual Machine (VM).
 
-## Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- [Docker](https://docs.docker.com/get-docker/)
-- [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html) (for deployment)
-
 ## Building and Running
 
 ```bash
@@ -29,7 +22,8 @@ sudo docker build -t graficoapp .
 ```bash
 sudo docker run -p 5000:5000 graficoapp
 ```
-
+- note: "graficoapp" is the directory where the files are saved
+- 
 ## Reference ##
 This project is a work for a DevOps class in my Computer Science course.
 
