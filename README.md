@@ -23,7 +23,7 @@ sudo docker build -t graficoapp .
 sudo docker run -p 5000:5000 graficoapp
 ```
 - note: "graficoapp" is the directory where the files are saved
-- 
+
 ## Reference ##
 This project is a work for a DevOps class in my Computer Science course.
 
